@@ -1,0 +1,380 @@
+[
+  {
+    "date": "2022-05-04T05:53:55.323Z",
+    "amount": "72.56",
+    "cardNumber": "6767-5562-3788-3143-96",
+    "isSuccessful": true,
+    "isDataphone": false,
+    "id": "HYFEOMV1",
+    "index": "1"
+  },
+  {
+    "date": "2021-10-11T14:31:13.416Z",
+    "amount": "890.60",
+    "cardNumber": "5587-3458-8679-7292",
+    "isSuccessful": true,
+    "isDataphone": true,
+    "id": "XYWEBVY1",
+    "index": "2"
+  },
+  {
+    "date": "2022-02-17T19:47:50.517Z",
+    "amount": "699.07",
+    "cardNumber": "5499-4416-8046-7480",
+    "isSuccessful": false,
+    "isDataphone": false,
+    "id": "BEJABFU1873",
+    "index": "3"
+  },
+  {
+    "date": "2021-07-11T03:04:33.978Z",
+    "amount": "657.05",
+    "cardNumber": "3719-287366-15621",
+    "isSuccessful": true,
+    "isDataphone": true,
+    "id": "EKHAGYA1439",
+    "index": "4"
+  },
+  {
+    "date": "2021-08-06T21:25:20.697Z",
+    "amount": "348.03",
+    "cardNumber": "6759-6045-0993-6113",
+    "isSuccessful": true,
+    "isDataphone": true,
+    "id": "EOCANUO1",
+    "index": "5"
+  },
+  {
+    "date": "2021-10-19T15:02:19.961Z",
+    "amount": "528.11",
+    "cardNumber": "4568-1172-4531-5791",
+    "isSuccessful": true,
+    "isDataphone": true,
+    "id": "GBRIMUP1",
+    "index": "6"
+  },
+  {
+    "date": "2021-09-22T08:55:12.875Z",
+    "amount": "292.15",
+    "cardNumber": "6759-6827-6364-1542-65",
+    "isSuccessful": false,
+    "isDataphone": true,
+    "id": "YQFOGGP1",
+    "index": "7"
+  },
+  {
+    "date": "2022-03-07T04:42:50.282Z",
+    "amount": "171.77",
+    "cardNumber": "3743-569594-87119",
+    "isSuccessful": false,
+    "isDataphone": false,
+    "id": "ABDUHRZ1KUK",
+    "index": "8"
+  },
+  {
+    "date": "2022-02-14T09:38:53.727Z",
+    "amount": "422.16",
+    "cardNumber": "6767-3039-2200-9831-01",
+    "isSuccessful": true,
+    "isDataphone": false,
+    "id": "UILAFIS1",
+    "index": "9"
+  },
+  {
+    "date": "2021-12-03T09:36:21.710Z",
+    "amount": "275.70",
+    "cardNumber": "3787-554090-54231",
+    "isSuccessful": true,
+    "isDataphone": true,
+    "id": "FPZISST1",
+    "index": "10"
+  },
+  {
+    "date": "2021-09-10T08:34:52.506Z",
+    "amount": "28.09",
+    "cardNumber": "6011-6226-3258-3213-0773",
+    "isSuccessful": true,
+    "isDataphone": true,
+    "id": "DCNOKGX1",
+    "index": "11"
+  },
+  {
+    "date": "2021-08-19T23:35:54.368Z",
+    "amount": "121.60",
+    "cardNumber": "5893903527067186529",
+    "isSuccessful": false,
+    "isDataphone": false,
+    "id": "DPJOBGS1325",
+    "index": "12"
+  },
+  {
+    "date": "2022-01-31T01:47:52.057Z",
+    "amount": "621.54",
+    "cardNumber": "6759-3760-4441-7747",
+    "isSuccessful": true,
+    "isDataphone": true,
+    "id": "UBQUSCR1832",
+    "index": "13"
+  },
+  {
+    "date": "2021-09-18T03:08:40.826Z",
+    "amount": "556.52",
+    "cardNumber": "6375-9536-2868-7695",
+    "isSuccessful": false,
+    "isDataphone": true,
+    "id": "DOUIPAH1",
+    "index": "14"
+  },
+  {
+    "date": "2022-03-17T16:42:58.032Z",
+    "amount": "610.06",
+    "cardNumber": "6706627518165733",
+    "isSuccessful": true,
+    "isDataphone": false,
+    "id": "XCIELVP1",
+    "index": "15"
+  },
+  {
+    "date": "2021-07-06T19:10:07.499Z",
+    "amount": "270.89",
+    "cardNumber": "6371-2728-3804-6261",
+    "isSuccessful": false,
+    "isDataphone": true,
+    "id": "MVHOGHN1531",
+    "index": "16"
+  },
+  {
+    "date": "2021-06-14T03:50:42.579Z",
+    "amount": "826.78",
+    "cardNumber": "6483-6294-8381-1533-8311",
+    "isSuccessful": false,
+    "isDataphone": true,
+    "id": "VFQICON1UAX",
+    "index": "17"
+  },
+  {
+    "date": "2021-10-30T03:15:26.381Z",
+    "amount": "452.72",
+    "cardNumber": "6392-3280-1064-8198",
+    "isSuccessful": false,
+    "isDataphone": false,
+    "id": "KCNATFM1",
+    "index": "18"
+  },
+  {
+    "date": "2021-12-05T11:23:59.538Z",
+    "amount": "971.33",
+    "cardNumber": "6370-5214-5585-9134",
+    "isSuccessful": false,
+    "isDataphone": false,
+    "id": "QRPUINF1030",
+    "index": "19"
+  },
+  {
+    "date": "2021-09-30T22:58:38.977Z",
+    "amount": "714.85",
+    "cardNumber": "589361699611206545",
+    "isSuccessful": false,
+    "isDataphone": true,
+    "id": "SUBIMEK1",
+    "index": "20"
+  },
+  {
+    "date": "2021-08-25T12:59:27.988Z",
+    "amount": "0.58",
+    "cardNumber": "5548-5679-8919-3335",
+    "isSuccessful": true,
+    "isDataphone": true,
+    "id": "OSNOBVU1",
+    "index": "21"
+  },
+  {
+    "date": "2022-03-01T17:05:02.466Z",
+    "amount": "757.63",
+    "cardNumber": "3528-4455-8051-6647",
+    "isSuccessful": true,
+    "isDataphone": false,
+    "id": "OVMEAXA1287",
+    "index": "22"
+  },
+  {
+    "date": "2021-12-02T22:40:02.103Z",
+    "amount": "70.65",
+    "cardNumber": "6706376050524941",
+    "isSuccessful": false,
+    "isDataphone": true,
+    "id": "TRVIFKU1128",
+    "index": "23"
+  },
+  {
+    "date": "2021-07-31T15:33:33.970Z",
+    "amount": "284.63",
+    "cardNumber": "6771-8927-9471-6753",
+    "isSuccessful": false,
+    "isDataphone": true,
+    "id": "VQJASDD1VAF",
+    "index": "24"
+  },
+  {
+    "date": "2021-06-10T06:16:09.550Z",
+    "amount": "282.87",
+    "cardNumber": "6759-3596-4133-9205",
+    "isSuccessful": true,
+    "isDataphone": false,
+    "id": "VVZOCOI1",
+    "index": "25"
+  },
+  {
+    "date": "2021-09-22T22:35:16.995Z",
+    "amount": "801.28",
+    "cardNumber": "3528-6121-7210-2043",
+    "isSuccessful": true,
+    "isDataphone": false,
+    "id": "AKAIYEQ1",
+    "index": "26"
+  },
+  {
+    "date": "2021-07-01T12:13:54.596Z",
+    "amount": "224.56",
+    "cardNumber": "3529-8946-4645-7412",
+    "isSuccessful": true,
+    "isDataphone": true,
+    "id": "REVUMHK1",
+    "index": "27"
+  },
+  {
+    "date": "2021-11-26T13:25:44.848Z",
+    "amount": "26.64",
+    "cardNumber": "6373-3600-9584-8655",
+    "isSuccessful": true,
+    "isDataphone": false,
+    "id": "DZBACFB1486",
+    "index": "28"
+  },
+  {
+    "date": "2022-01-25T15:34:34.585Z",
+    "amount": "641.29",
+    "cardNumber": "3532-3988-4012-5457",
+    "isSuccessful": false,
+    "isDataphone": false,
+    "id": "SPDECXO1",
+    "index": "29"
+  },
+  {
+    "date": "2021-10-18T05:12:52.258Z",
+    "amount": "975.66",
+    "cardNumber": "6771-8920-9341-0603",
+    "isSuccessful": false,
+    "isDataphone": false,
+    "id": "EZCOFMH1198",
+    "index": "30"
+  },
+  {
+    "date": "2021-10-16T14:29:35.525Z",
+    "amount": "310.43",
+    "cardNumber": "3580-7273-2506-4436",
+    "isSuccessful": false,
+    "isDataphone": true,
+    "id": "BAMETOV1",
+    "index": "31"
+  },
+  {
+    "date": "2022-02-11T22:53:08.702Z",
+    "amount": "533.58",
+    "cardNumber": "3006-698579-3386",
+    "isSuccessful": true,
+    "isDataphone": false,
+    "id": "LYAISEA1",
+    "index": "32"
+  },
+  {
+    "date": "2021-06-20T06:08:11.011Z",
+    "amount": "221.59",
+    "cardNumber": "6759-8444-9632-9688",
+    "isSuccessful": true,
+    "isDataphone": true,
+    "id": "KDJIGIH1",
+    "index": "33"
+  },
+  {
+    "date": "2022-04-12T13:13:04.665Z",
+    "amount": "223.20",
+    "cardNumber": "4097-4423-5785-7756",
+    "isSuccessful": false,
+    "isDataphone": false,
+    "id": "CMTETWZ1933",
+    "index": "34"
+  },
+  {
+    "date": "2021-12-20T03:35:42.593Z",
+    "amount": "590.55",
+    "cardNumber": "589346411155459841",
+    "isSuccessful": true,
+    "isDataphone": false,
+    "id": "KKKEGLA1",
+    "index": "35"
+  },
+  {
+    "date": "2021-05-26T04:02:05.026Z",
+    "amount": "452.31",
+    "cardNumber": "6570-1482-3089-6130",
+    "isSuccessful": true,
+    "isDataphone": true,
+    "id": "JJSEFKZ1823",
+    "index": "36"
+  },
+  {
+    "date": "2021-08-23T04:55:14.810Z",
+    "amount": "539.82",
+    "cardNumber": "5893-5906-5302-4571",
+    "isSuccessful": false,
+    "isDataphone": true,
+    "id": "ADAAMVO1",
+    "index": "37"
+  },
+  {
+    "date": "2021-12-07T11:52:23.699Z",
+    "amount": "309.69",
+    "cardNumber": "6377-4579-2323-6471",
+    "isSuccessful": false,
+    "isDataphone": true,
+    "id": "HJLATON1",
+    "index": "38"
+  },
+  {
+    "date": "2021-05-10T13:26:49.963Z",
+    "amount": "255.69",
+    "cardNumber": "5427-9817-3634-6399",
+    "isSuccessful": false,
+    "isDataphone": false,
+    "id": "IITEUSX1",
+    "index": "39"
+  },
+  {
+    "date": "2021-09-04T21:17:01.246Z",
+    "amount": "621.45",
+    "cardNumber": "6372-5119-9047-7854",
+    "isSuccessful": true,
+    "isDataphone": true,
+    "id": "BPCAVIG1541",
+    "index": "40"
+  },
+  {
+    "date": "2021-11-27T07:47:35.085Z",
+    "amount": "996.56",
+    "cardNumber": "5127-2641-1033-9154",
+    "isSuccessful": false,
+    "isDataphone": false,
+    "id": "LKJABMB1869",
+    "index": "41"
+  },
+  {
+    "date": "2022-04-01T06:25:16.778Z",
+    "amount": "213.30",
+    "cardNumber": "6706775530491047",
+    "isSuccessful": true,
+    "isDataphone": true,
+    "id": "FCSOKPA1",
+    "index": "42"
+  }
+]
